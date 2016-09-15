@@ -1,0 +1,15 @@
+{
+  "name": "site",
+  "description": "",
+  "main": "www/js/main.min.js",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
